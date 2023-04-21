@@ -33,6 +33,13 @@
  ## model-
            1. model package has ToDo class.
            2. which ToDo class have all atrributes that we want .
+           
+   
+  ## Summary-
+           * In this project i have add todo object using postmapping
+           * using getmapping i get all data of the list,
+           * using delete mapping i delete a one todo object.
+           * using putmapping i have change address using userId.
            3. ToDo class has all geters and setters of its properties and also constructor is call when ToDo ArrayList call.
   
  
